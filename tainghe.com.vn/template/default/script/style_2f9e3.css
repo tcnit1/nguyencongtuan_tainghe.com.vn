@@ -1,0 +1,7 @@
+.config-new-2020 .config-color a{font-weight:normal;margin-right:10px;border:solid 1px #aaa;padding:3px 4px;border-radius:2px;-moz-border-radius:2px;cursor:pointer;box-sizing:border-box;font-size:0;width:20px;display:inline-block;height:20px;padding:0;float:left;}
+.config-new-2020 .config-color .value::after{content:'';display:block;clear:both;}
+.config-new-2020 .config-color .value, .config-new-2020 .config-color .name{display:inline-block;vertical-align:text-top;}
+.config-new-2020 .config-color .name{margin-right:20px;}
+.config-new-2020{margin:10px 0;}
+.config-new-2020 .config-color a span {width: inherit !important;height: inherit !important;}
+.config-new-2020 .selected-attr-value {border-color: #d00 !important;border-width: 2px !important;}
